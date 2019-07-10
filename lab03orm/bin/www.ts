@@ -24,6 +24,7 @@ app.use(
     ],
   }),
 );
+
 /**
  * Create HTTP server.
  */
